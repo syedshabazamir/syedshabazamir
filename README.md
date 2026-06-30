@@ -58,8 +58,6 @@ Developed a grocery shopping application using Flutter and Firebase Authenticati
 - Product Search
 - Responsive UI
 
-🔗 **Repository:** [Add Your Repo Link Here]
-
 ---
 
 ### 🤖 AI Summarizer App
@@ -72,7 +70,6 @@ An AI-powered document summarizer that generates concise summaries from uploaded
 - Clean User Interface
 - Fast Processing
 
-🔗 **Repository:** [Add Your Repo Link Here]
 
 ---
 
@@ -144,7 +141,7 @@ A web-based library management system developed using HTML, CSS, JavaScript, Pyt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedshabazamir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=syedshabazamir&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
