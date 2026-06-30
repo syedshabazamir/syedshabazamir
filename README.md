@@ -83,8 +83,6 @@ A web-based library management system developed using HTML, CSS, JavaScript, Pyt
 - Search Functionality
 - Borrow & Return Records
 
-🔗 **Repository:** [Add Your Repo Link Here]
-
 ---
 
 ## 💼 Work Experience
